@@ -23,10 +23,11 @@
 - Superiority of FP
 # Setup
   - A terminal client
-  - Java
-  - Clojure
-  - Leingen
-  - Emacs
+  - Java 8 or higher
+  - [Clojure](https://clojure.org/)
+  - [Leiningen](https://leiningen.org/)
+  - [Emacs](https://www.gnu.org/software/emacs/)
+  - Setup Emacs with https://github.com/koljure/beginning-clojure-emacs.d
 # Copyright and license
 - Copyright © 2019-2020 Koljure.
 - Distributed under the EPL license.
